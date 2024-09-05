@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zV1nd
 - 👀 I’m interested in Pocketmine
-- 🌱 I’m currently learning PhP
+- 🌱 I’m currently learning PHP
 - 📫 Contact me on Discord, zvind
 
 <!---
